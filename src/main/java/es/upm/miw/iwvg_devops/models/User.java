@@ -27,7 +27,7 @@ public class User{
 
     @Override
     public String toString() {
-        System.out.println("Conflict");
+        System.out.println("lo que me apetece");
         return super.toString();
     }
 }
